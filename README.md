@@ -48,7 +48,7 @@ else:
     print("Token expired or invalid. Renew the token.")
 ```
 
-##Note
+#### Note:
 
 - Adjust the token_expiration variable based on your actual token lifespan.
 - Make sure to replace placeholder values with your actual Marketo Identity URL, Client ID, Client Secret, and a valid Marketo API endpoint for validation.
